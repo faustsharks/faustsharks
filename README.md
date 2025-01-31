@@ -1,4 +1,5 @@
-## Hi there 👋
+![heh](https://github.com/user-attachments/assets/51de02d9-4197-4d78-b1a7-13b39d881d3d)
+
 
 <!--
 **faustsharks/faustsharks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
